@@ -7,6 +7,12 @@ By capturing conversations through ambient voice input and turning them into org
 ---
 ![IMG_4535](https://github.com/user-attachments/assets/434d937f-f651-40f3-981b-e392513fcec6)
 
+![IMG_4536](https://github.com/user-attachments/assets/ac0efd2c-dc82-411a-85fb-82ae5a373b90)
+
+![IMG_4538](https://github.com/user-attachments/assets/0e2441ad-0b6c-49f4-b6d4-e86ffeb9a57f)
+
+
+
 ### Vision
 
 Jibe AI is more than a productivity tool. It is the first step toward a fully agentic personal operating system.
