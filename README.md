@@ -5,6 +5,7 @@ Jibe AI is a personal assistant designed for busy professionals with demanding l
 By capturing conversations through ambient voice input and turning them into organized, actionable tasks, Jibe AI gives users a simple, elegant way to stay ahead of everything life throws at them.
 
 ---
+![IMG_4535](https://github.com/user-attachments/assets/434d937f-f651-40f3-981b-e392513fcec6)
 
 ### Vision
 
