@@ -57,7 +57,7 @@ It’s about having the right agent do it for you.
 
 ### Demo Note
 
-User **Sarah** and the assistant’s interactions with **Bright Day Bakery** are fictional and used for illustrative purposes.
+User **Sarah** and the assistant’s interactions with the entities data are fictional and used for illustrative purposes.
 
 ---
 
